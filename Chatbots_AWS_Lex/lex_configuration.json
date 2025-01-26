@@ -1,0 +1,16 @@
+{
+  "botName": "SimpleChatBot",
+  "description": "A chatbot for basic interaction",
+  "intents": [
+    {
+      "name": "GreetingIntent",
+      "sampleUtterances": ["Hello", "Hi", "Good morning"],
+      "response": "Hi! How can I assist you today?"
+    },
+    {
+      "name": "HelpIntent",
+      "sampleUtterances": ["I need help", "Can you assist me?"],
+      "response": "Sure, I can help! Please tell me more about what you need."
+    }
+  ]
+}

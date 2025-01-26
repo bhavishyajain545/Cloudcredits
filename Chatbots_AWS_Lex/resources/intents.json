@@ -1,0 +1,12 @@
+[
+  {
+    "intentName": "GreetingIntent",
+    "sampleUtterances": ["Hello", "Hi", "Good morning"],
+    "slots": []
+  },
+  {
+    "intentName": "HelpIntent",
+    "sampleUtterances": ["I need help", "Can you assist me?"],
+    "slots": []
+  }
+]

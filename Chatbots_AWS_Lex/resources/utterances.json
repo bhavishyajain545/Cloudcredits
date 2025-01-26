@@ -1,0 +1,4 @@
+{
+  "GreetingIntent": ["Hi", "Hey there", "Good morning"],
+  "HelpIntent": ["Can you help?", "I need assistance", "Help me out"]
+}
